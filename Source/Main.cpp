@@ -5,8 +5,6 @@
 
     It contains the basic startup code for a Juce application.
 
-	Testing changes
-
   ==============================================================================
 */
 
