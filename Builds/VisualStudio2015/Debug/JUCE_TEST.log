@@ -1,0 +1,20 @@
+﻿  MainComponent.cpp
+  Main.cpp
+  juce_audio_basics.cpp
+  juce_audio_devices.cpp
+c:\users\kate\source\repos\github\juce_test\source\main.cpp(27): warning C4100: 'commandLine': unreferenced formal parameter
+c:\users\kate\source\repos\github\juce_test\source\main.cpp(49): warning C4100: 'commandLine': unreferenced formal parameter
+  juce_audio_formats.cpp
+  juce_audio_processors.cpp
+  juce_core.cpp
+  juce_cryptography.cpp
+  juce_data_structures.cpp
+  juce_events.cpp
+  juce_graphics.cpp
+  juce_gui_basics.cpp
+  juce_gui_extra.cpp
+  juce_opengl.cpp
+  juce_video.cpp
+  Source.cpp
+  JUCE_TEST.vcxproj -> C:\Users\Kate\Source\Repos\GitHub\JUCE_Test\Builds\VisualStudio2015\Debug\NewProject.exe
+  JUCE_TEST.vcxproj -> Debug\\NewProject.pdb (Full PDB)
